@@ -7,7 +7,7 @@ Currently focused on expanding my knowledge in cloud computing, especially Micro
 ### 🛠️ Technologies & Tools:
 - **Languages:** Python (basic), JavaScript (basic), HTML, CSS
 - **Operating Systems:** Ubuntu Server, Windows, Linux
-- **Cloud:** Microsoft Azure
+- **Cloud:** Microsoft Azure & AWS
 - **Version Control:** Git, GitHub
 - **CRM & Help Desk:** Salesforce, Helpshift, Ticketing systems
 
