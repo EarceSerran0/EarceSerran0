@@ -2,7 +2,7 @@
 
 ## 💻 Systems Engineering Student | Bilingual Technical Support | Cloud Enthusiast</br>
 
-Currently focused on expanding my knowledge in cloud computing, especially Microsoft Azure (AZ-900 certified), and actively seeking opportunities to grow in this area</br>
+Currently focused on expanding my knowledge in cloud computing, especially Microsoft Azure, and actively seeking opportunities to grow in this area</br>
 
 ### 🛠️ Technologies & Tools:
 - **Languages:** Python (basic), JavaScript (basic), HTML, CSS
